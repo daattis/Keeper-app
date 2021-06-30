@@ -1,2 +1,2 @@
 # Keeper-app
-Keeper app, done with React
+Note keeper app, done with React
